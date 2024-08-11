@@ -15,3 +15,8 @@ Frontend: React.js
 Backend: Node.js & Express.js
 </br>
 Database: MongoDB
+
+
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/b0c86671-c1f0-47f8-8d48-33eec66d2647">
+<img width="917" alt="image" src="https://github.com/user-attachments/assets/9b07cef9-d8a8-4f8e-88e6-90ac914ac1f2">
+
